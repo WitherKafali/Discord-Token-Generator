@@ -7,7 +7,7 @@ by Yurtrimu#1100
 You can set the generator to find the specific user's account token or a random person's and do not forget that getting a real token
 may be real hard and you could not find any even if you try to find it for long period of times.
 
+![Example](https://cdn.discordapp.com/attachments/960269719368249458/971149603648995428/Captasdasdsadsadure.PNG)
+
 // This application is for educational purposes only and i do not take any responsibility for any actions that can or will happen
 which includes my application.
-
-![Example](https://cdn.discordapp.com/attachments/960269719368249458/971149603648995428/Captasdasdsadsadure.PNG)
